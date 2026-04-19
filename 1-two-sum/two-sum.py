@@ -6,4 +6,4 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     num.append(i)
                     num.append(j)
-                    return num    
+                    return num 
